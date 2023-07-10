@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-I'm now an ALX Student, this is my second repository as a full-stack engineer.
+this script is to print Hello, world
